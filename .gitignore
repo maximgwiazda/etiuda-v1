@@ -33,6 +33,12 @@
 /test.js
 /build-integrated.js
 
+# A format 2 catalog, `*.ec`, is already ignored by the allowlist and is named here for the
+# same reason the two lines above are: so that nobody later reads the silence as permission.
+# 1.x reads format 1 and nothing else; such a file is here only because it sits beside the
+# format 1 catalog it was made from.
+*.ec
+
 # So: no catalog is ever committed - not etiuda-catalog.js, not an export under any other
 # name - and neither is anything else that lands here.
 #
