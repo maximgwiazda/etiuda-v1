@@ -1,6 +1,8 @@
 # Etiuda
 
-**[▶ Open Etiuda](https://maximgwiazda.github.io/etiuda-v1/Etiuda.html)** in the browser.
+> **Moved, 2026-09-15.** Etiuda 1.x now lives in the [Etiuda repository](https://github.com/maximgwiazda/Etiuda) under `v1/`, with this history; `etiuda.dev/v1` serves it from there and later 1.x releases are cut there. This repository now holds only that redirect: `Etiuda.html` sends an old link to the new address, and everything else, the engine, its tools and tests, lives on in `Etiuda/v1` with the whole history kept here too.
+
+**[▶ Open Etiuda](https://maximgwiazda.github.io/Etiuda/v1/Etiuda.html)** in the browser.
 Nothing to install.
 
 One HTML file, and inside it every phrase a live-chat support agent sends all day, ready to
@@ -64,7 +66,7 @@ Four words carry the whole design.
 
 ## Getting started
 
-**In the browser.** [Open Etiuda](https://maximgwiazda.github.io/etiuda-v1/Etiuda.html), press
+**In the browser.** [Open Etiuda](https://maximgwiazda.github.io/Etiuda/v1/Etiuda.html), press
 **load a sample catalog**, and take the one-minute tour. Nothing is installed and nothing is
 sent anywhere; what you do is kept in that browser.
 
